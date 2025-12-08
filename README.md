@@ -105,5 +105,11 @@ U svim prikazima (knjige, korisnici, autori…) postoji polje za **real-time pre
 
 ## 📸 Screenshots
 ![image alt](https://github.com/coricmarko2001-ship-it/BibliotekaApp/blob/035bacffb66b9fecd46e7a43002bb39c02230129/Login.png)
+![image alt](https://github.com/coricmarko2001-ship-it/BibliotekaApp/blob/372b7f1a2c1412c88101e55180be164d452ce26d/Pocetna.png)
+![image alt]()
+![image alt]()
+![image alt]()
+![image alt]()
+![image alt]()
 
 
