@@ -107,7 +107,7 @@ U svim prikazima (knjige, korisnici, autori…) postoji polje za **real-time pre
 ![image alt](https://github.com/coricmarko2001-ship-it/BibliotekaApp/blob/035bacffb66b9fecd46e7a43002bb39c02230129/Login.png)
 ![image alt](https://github.com/coricmarko2001-ship-it/BibliotekaApp/blob/372b7f1a2c1412c88101e55180be164d452ce26d/Pocetna.png)
 ![image alt](https://github.com/coricmarko2001-ship-it/BibliotekaApp/blob/9d703d63951a0bf8b285feea95e45eeedbf36ac4/Pregled%20knjiga.png)
-![image alt]()
+![image alt](https://github.com/coricmarko2001-ship-it/BibliotekaApp/blob/1b5bca5f6049b9098d039817a3b03973b24fb295/Dodavanje%20knjige.png)
 ![image alt]()
 ![image alt]()
 ![image alt]()
