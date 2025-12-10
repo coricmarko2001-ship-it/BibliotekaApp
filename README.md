@@ -108,7 +108,7 @@ U svim prikazima (knjige, korisnici, autori…) postoji polje za **real-time pre
 <div align="center">
 
 ### ➤ Login  
-<img src="https://github.com/coricmarko2001-ship-it/BibliotekaApp/blob/035bacffb66b9fecd46e7a43002bb39c02230129/Login.png" width="700"/>
+<img src="https://github.com/coricmarko2001-ship-it/BibliotekaApp/blob/035bacffb66b9fecd46e7a43002bb39c02230129/Login.png" width="350"/>
 
 ---
 
