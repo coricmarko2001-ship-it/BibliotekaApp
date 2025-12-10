@@ -104,12 +104,43 @@ U svim prikazima (knjige, korisnici, autori…) postoji polje za **real-time pre
 ---
 
 ## 📸 Screenshots
-![image alt](https://github.com/coricmarko2001-ship-it/BibliotekaApp/blob/035bacffb66b9fecd46e7a43002bb39c02230129/Login.png)
-![image alt](https://github.com/coricmarko2001-ship-it/BibliotekaApp/blob/372b7f1a2c1412c88101e55180be164d452ce26d/Pocetna.png)
-![image alt](https://github.com/coricmarko2001-ship-it/BibliotekaApp/blob/9d703d63951a0bf8b285feea95e45eeedbf36ac4/Pregled%20knjiga.png)
-![image alt](https://github.com/coricmarko2001-ship-it/BibliotekaApp/blob/1b5bca5f6049b9098d039817a3b03973b24fb295/Dodavanje%20knjige.png)
-![image alt](https://github.com/coricmarko2001-ship-it/BibliotekaApp/blob/c310556cbc7dc8de5f0e1dae2d66ced3613c4d1f/Izdavanje%20knjige.png)
-![image alt](https://github.com/coricmarko2001-ship-it/BibliotekaApp/blob/c38bd4067fec132a25221fa9eb7b9ec2154321a3/Izmjena%20bibliotekara.png)
-![image alt](https://github.com/coricmarko2001-ship-it/BibliotekaApp/blob/0153f25ace83be204125c85ed4c7117ce83e3110/Dodavanje%20korisnika.png)
+
+<div align="center">
+
+### ➤ Login  
+<img src="https://github.com/coricmarko2001-ship-it/BibliotekaApp/blob/035bacffb66b9fecd46e7a43002bb39c02230129/Login.png" width="700"/>
+
+---
+
+### ➤ Pocetna  
+<img src="https://github.com/coricmarko2001-ship-it/BibliotekaApp/blob/372b7f1a2c1412c88101e55180be164d452ce26d/Pocetna.png" width="700"/>
+
+---
+
+### ➤ Pregled knjiga  
+<img src="https://github.com/coricmarko2001-ship-it/BibliotekaApp/blob/9d703d63951a0bf8b285feea95e45eeedbf36ac4/Pregled%20knjiga.png" width="700"/>
+
+---
+
+### ➤ Dodavanje knjige  
+<img src="https://github.com/coricmarko2001-ship-it/BibliotekaApp/blob/1b5bca5f6049b9098d039817a3b03973b24fb295/Dodavanje%20knjige.png" width="700"/>
+
+---
+
+### ➤ Izdavanje knjige  
+<img src="https://github.com/coricmarko2001-ship-it/BibliotekaApp/blob/c310556cbc7dc8de5f0e1dae2d66ced3613c4d1f/Izdavanje%20knjige.png" width="700"/>
+
+---
+
+### ➤ Izmjena bibliotekara  
+<img src="https://github.com/coricmarko2001-ship-it/BibliotekaApp/blob/c38bd4067fec132a25221fa9eb7b9ec2154321a3/Izmjena%20bibliotekara.png" width="700"/>
+
+---
+
+### ➤ Dodavanje korisnika  
+<img src="https://github.com/coricmarko2001-ship-it/BibliotekaApp/blob/0153f25ace83be204125c85ed4c7117ce83e3110/Dodavanje%20korisnika.png" width="700"/>
+
+</div>
+
 
 
